@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|c:\\users\\leyla\\source\\repos\\todolistproject\\todolistproject\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|solutionrelative:todolistproject\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|c:\\users\\leyla\\source\\repos\\todolistproject\\todolistproject\\models\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|solutionrelative:todolistproject\\models\\taskmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|c:\\users\\leyla\\source\\repos\\todolistproject\\todolistproject\\models\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|solutionrelative:todolistproject\\models\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|c:\\users\\leyla\\source\\repos\\todolistproject\\todolistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|solutionrelative:todolistproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|c:\\users\\leyla\\source\\repos\\todolistproject\\todolistproject\\models\\taskbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EDB17AE-2245-4F05-BCFF-A69C2F1A7EAB}|ToDoListProject\\ToDoListProject.csproj|solutionrelative:todolistproject\\models\\taskbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManager.cs",
+              "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\TaskManager.cs",
+              "RelativeDocumentMoniker": "ToDoListProject\\Models\\TaskManager.cs",
+              "ToolTip": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\TaskManager.cs",
+              "RelativeToolTip": "ToDoListProject\\Models\\TaskManager.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:58.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "ToDoListProject\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\TaskItem.cs",
+              "RelativeToolTip": "ToDoListProject\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:58.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskBase.cs",
+              "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\TaskBase.cs",
+              "RelativeDocumentMoniker": "ToDoListProject\\Models\\TaskBase.cs",
+              "ToolTip": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\TaskBase.cs",
+              "RelativeToolTip": "ToDoListProject\\Models\\TaskBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:58.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\Exceptions.cs",
+              "RelativeDocumentMoniker": "ToDoListProject\\Models\\Exceptions.cs",
+              "ToolTip": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Models\\Exceptions.cs",
+              "RelativeToolTip": "ToDoListProject\\Models\\Exceptions.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:58.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Program.cs",
+              "RelativeDocumentMoniker": "ToDoListProject\\Program.cs",
+              "ToolTip": "C:\\Users\\leyla\\source\\repos\\ToDoListProject\\ToDoListProject\\Program.cs",
+              "RelativeToolTip": "ToDoListProject\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:52:58.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

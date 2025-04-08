@@ -1,0 +1,29 @@
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.exe
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.deps.json
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.runtimeconfig.json
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.dll
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.pdb
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.AssemblyInfoInputs.cache
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.AssemblyInfo.cs
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.csproj.CoreCompileInputs.cache
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.dll
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\refint\ToDoListProject.dll
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.pdb
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.genruntimeconfig.cache
+C:\Users\I novbe\source\repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ref\ToDoListProject.dll
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.exe
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.deps.json
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.runtimeconfig.json
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.dll
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\bin\Debug\net8.0\ToDoListProject.pdb
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.AssemblyInfoInputs.cache
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.AssemblyInfo.cs
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.csproj.CoreCompileInputs.cache
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.sourcelink.json
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.dll
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\refint\ToDoListProject.dll
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.pdb
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ToDoListProject.genruntimeconfig.cache
+C:\Users\leyla\Source\Repos\ToDoListProject\ToDoListProject\obj\Debug\net8.0\ref\ToDoListProject.dll
