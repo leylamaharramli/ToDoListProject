@@ -20,13 +20,14 @@ static class TaskManager
             if (index<NewTasks.Length)
             {
                 NewTasks[index++] = item;
-            }
-            Console.WriteLine("Task siyahidan silindi");
-            Tasks = NewTasks;
-            return NewTasks;
+            } 
         }
+        Console.WriteLine("Task siyahidan silindi");
+        Tasks = NewTasks;
+        return NewTasks;
         throw new TaskNotFoundException();
     }
+
 
 
 
